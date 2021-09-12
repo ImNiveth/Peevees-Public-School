@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#Schl_name {
+    font-family: 'Oswald', sans-serif;
+}
+
+#welcome {
+    background-color: cyan;
+    padding-bottom: 25px;
+}
+
+#location {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #00a3a3;
+}
+
+#loct_name {
+    font-family: 'Oswald', sans-serif;
+}
