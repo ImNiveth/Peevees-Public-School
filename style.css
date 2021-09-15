@@ -11,12 +11,58 @@ body {
     padding-bottom: 25px;
 }
 
+#loct_name {
+    font-family: 'Oswald', sans-serif;
+}
+
+#ED_View_Of_School {
+    padding-bottom: 30px;
+}
+
+#CL_name {
+    font-family: 'Oswald', sans-serif;
+}
+
+#School_Surroundings {
+    background-color: cyan;
+}
+
 #location {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #00a3a3;
+    background-color: cyan;
 }
 
-#loct_name {
+#Ach_para {
+    font-weight: 600;
+    color: black;
+}
+
+#achievements {
+    background-color: cyan;
+}
+
+#Ach_name {
     font-family: 'Oswald', sans-serif;
+}
+
+#Gallery_name {
+    font-family: 'Oswald', sans-serif;
+}
+
+#ach_img {
+    height: 200;
+    width: 300;
+}
+
+#Gallery {
+    background-color: cyan;
+}
+
+.menu {
+    cursor: pointer;
+}
+
+html {
+    scroll-behavior: smooth;
 }
