@@ -51,8 +51,8 @@ body {
 }
 
 #ach_img {
-    height: 200;
-    width: 300;
+    height: 500px;
+    width: auto;
 }
 
 #Gallery {
@@ -65,4 +65,9 @@ body {
 
 html {
     scroll-behavior: smooth;
+}
+
+#VR {
+    height: 300px;
+    width: 300px;
 }
