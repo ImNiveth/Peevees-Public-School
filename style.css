@@ -71,3 +71,16 @@ html {
     height: 300px;
     width: 300px;
 }
+
+#whats_new {
+    background-color: cyan;
+}
+
+#Cde_lab {
+    color: black;
+    font-weight: 600;
+}
+
+#whts_new_name {
+    font-family: 'Oswald', sans-serif;
+}
